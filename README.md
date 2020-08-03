@@ -5,9 +5,6 @@ A 2D video game featuring Bernie Sanders as he tries to collect enough delegates
 Mac (.app) download to play game available at: https://drive.google.com/file/d/1S4z0QTIcY0ip91AsjlEj2RyZoQ_yD6Rz/view?usp=sharing
 PC (.exe) download to play game currently unavailable. I unfortunately can't find it in my files. It can be made by downloading the project and then extracting as a .exe file.
 
-## Info Document
-.Docx download available at:
-
 ## Description
 
 
