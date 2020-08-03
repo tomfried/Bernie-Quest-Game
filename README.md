@@ -1,5 +1,5 @@
 # Bernie-Quest
-A 2-D video game featuring Bernie Sanders as he tries to collect enough delegates to win the 2016 Democratic Primary. Game is entirely satirical, please don't take it seriously.
+A 2D video game featuring Bernie Sanders as he tries to collect enough delegates to win the 2016 Democratic Primary. Game is entirely satirical, please don't take it seriously.
 
 ## Download
 Mac (.app) download to play game available at: https://drive.google.com/file/d/1S4z0QTIcY0ip91AsjlEj2RyZoQ_yD6Rz/view?usp=sharing
@@ -15,9 +15,15 @@ PC (.exe) download to play game currently unavailable. I unfortunately can't fin
 Game was made entirely in Unity using C# and JS languages for scripting. To edit the game and run these files you have to download [Unity](https://unity.com/). What version? I don't remember, sorry.
 
 ## Photos of Game:
-- ![A](https://)
-- ![B](https://)
-- ![C](https://)
+- ![1](https://i.imgur.com/PjroXed.png)
+- ![2](https://i.imgur.com/Yr1FmHj.png)
+- ![3](https://i.imgur.com/sjCwgpd.png)
+- ![4](https://i.imgur.com/dLPZQaG.png)
+- ![5](https://i.imgur.com/RPJ5ffj.png)
+- ![6](https://i.imgur.com/AZRrcdt.png)
+- ![7](https://i.imgur.com/y59eY5D.png)
+- ![8](https://i.imgur.com/mfhdyO8.png)
+- ![9](https://i.imgur.com/Ac9pUzy.png)
 
 
 ## Credits
